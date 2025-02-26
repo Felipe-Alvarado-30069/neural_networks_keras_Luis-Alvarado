@@ -1,4 +1,6 @@
-from src.neural_networks_keras import main # Importa el script desde la carpeta src
+# Importar la función de entrenamiento y evaluación desde el módulo neural_networks_keras
+from src.neural_networks_keras import train_and_evaluate
 
+# Verifica si el script se ejecuta directamente
 if __name__ == "__main__":
-    src.neural_networks_keras.main()  # Llama a la función main() en script.py
+    train_and_evaluate()  # Llama a la función para entrenar y evaluar la red neuronal
