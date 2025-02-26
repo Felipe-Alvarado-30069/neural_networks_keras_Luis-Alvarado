@@ -45,7 +45,7 @@ def train_and_evaluate():
     loss, accuracy = model.evaluate(x_test, y_test)  # Calcula la pérdida y la precisión en datos de prueba
     print(f"Precisión en el conjunto de prueba: {accuracy:.4f}")  # Muestra la precisión final
 
-    print("Entrenamiento y evaluación completados.")  # Mensaje de finalización
+    print("Entrenamiento y evaluación completados exitosamente.")  # Mensaje de finalización
 
 # Evitar ejecución automática si se importa este script en otro módulo
 if __name__ == "__main__":
