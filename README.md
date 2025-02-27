@@ -3,6 +3,7 @@
 ## Información del Proyecto
 **Materia:** Sistemas de Visión Artificial\
 **Tarea:** Tarea 2.2_Entrenamiento de red neuronal con Keras\ 
+
 **Estudiante:** Luis Felipe Alvarado Resendez\
 **Fecha:** 03/03/2025
 
@@ -88,7 +89,4 @@ Esto significa que el modelo es capaz de reconocer los dígitos con un 97% de pr
 ## Conclusión
 Este proyecto demuestra cómo una red neuronal simple puede reconocer dígitos escritos a mano con alta precisión utilizando la biblioteca Keras. Se puede mejorar el modelo aumentando el número de épocas, ajustando la arquitectura o probando diferentes optimizadores.
 
----
-
-¡Gracias por revisar este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue en el repositorio. 🚀
 
