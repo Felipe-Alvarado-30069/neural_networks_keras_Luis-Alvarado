@@ -1,10 +1,10 @@
 # README - Entrenamiento de Red Neuronal con Keras
 
 ## Información del Proyecto
-**Materia:** Sistemas de Visión Artificial
-**Tarea:** Tarea 2.2_Entrenamiento de red neuronal con Keras  
-**Estudiante:** Luis Felipe Alvarado Resendez
-**Fecha:** 03/03/2025
+**Materia:** Sistemas de Visión Artificial\
+**Tarea:** Tarea 2.2_Entrenamiento de red neuronal con Keras\ 
+**Estudiante:** Luis Felipe Alvarado Resendez\
+**Fecha:** 03/03/2025\
 
 ## Descripción General
 Este repositorio contiene un código en Python para entrenar una red neuronal utilizando la biblioteca Keras. El modelo se entrena con la base de datos MNIST, que contiene imágenes de dígitos escritos a mano (0-9). El objetivo del proyecto es diseñar una red neuronal capaz de reconocer estos dígitos con alta precisión.
