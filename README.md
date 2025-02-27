@@ -2,8 +2,7 @@
 
 ## Información del Proyecto
 **Materia:** Sistemas de Visión Artificial\
-**Tarea:** Tarea 2.2_Entrenamiento de red neuronal con Keras\ 
-
+**Tarea:** Tarea 2.2_Entrenamiento de red neuronal con Keras\
 **Estudiante:** Luis Felipe Alvarado Resendez\
 **Fecha:** 03/03/2025
 
