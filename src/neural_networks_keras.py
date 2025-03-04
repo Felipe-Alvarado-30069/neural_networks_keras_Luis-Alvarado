@@ -15,6 +15,16 @@ def train_and_evaluate():
     # Cargar los datos de entrenamiento y prueba desde MNIST
     (train_data_x, train_labels_y), (test_data_x, test_labels_y) = mnist.load_data()
 
+    # Imprimir información sobre los datos cargados
+    print("Forma de los datos de entrenamiento:", train_data_x.shape)
+    print("Etiqueta del primer ejemplo de entrenamiento:", train_labels_y[1])
+    print("Forma de los datos de prueba:", test_data_x.shape)
+    
+    # Visualizar un ejemplo de imagen de entrenamiento
+    plt.imshow(train_data_x[1], cmap="gray")
+    plt.title("Ejemplo de imagen de entrenamiento")
+    plt.show()
+
     # Normalización de datos:
     # Convertimos las imágenes en vectores de 28x28 (a un solo arreglo de 784 valores)
     # y los normalizamos dividiendo entre 255 (para que estén en el rango [0,1])
